@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vybo-github
+- 👀 I’m interested in Full stack Javascript and Java.
+- 🌱 I’m currently learning vim
+- 💞️ I’m looking to collaborate on javascript projects
+- 📫 How to reach me akhilesh.ksr@vybo.io
